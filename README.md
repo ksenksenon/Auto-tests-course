@@ -1,2 +1,2 @@
 # Auto-tests-course
-Homework
+Homework for auto testing
